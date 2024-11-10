@@ -1,0 +1,8 @@
+﻿  Poo Taller - Tareas.cpp
+C:\Users\OctoPC\Documents\Ilann Emilio Maya Campos___GitHub\POO Taller\POO Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas.cpp(92,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\OctoPC\Documents\Ilann Emilio Maya Campos___GitHub\POO Taller\POO Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas.cpp(98,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OctoPC\Documents\Ilann Emilio Maya Campos___GitHub\POO Taller\POO Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas.cpp(123,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OctoPC\Documents\Ilann Emilio Maya Campos___GitHub\POO Taller\POO Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas.cpp(148,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OctoPC\Documents\Ilann Emilio Maya Campos___GitHub\POO Taller\POO Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas.cpp(172,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OctoPC\Documents\Ilann Emilio Maya Campos___GitHub\POO Taller\POO Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas\Poo Taller - Tareas.cpp(94,10): warning C4101: 'disDone': variable local sin referencia
+  Poo Taller - Tareas.vcxproj -> C:\Users\OctoPC\Documents\Ilann Emilio Maya Campos___GitHub\POO Taller\POO Taller - Tareas\Poo Taller - Tareas\x64\Debug\Poo Taller - Tareas.exe

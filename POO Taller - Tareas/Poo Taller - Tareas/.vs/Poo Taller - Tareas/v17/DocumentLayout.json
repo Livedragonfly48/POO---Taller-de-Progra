@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OctoPC\\Documents\\Ilann Emilio Maya Campos___GitHub\\POO Taller\\POO Taller - Tareas\\Poo Taller - Tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E5DEE-B456-448D-A4B6-F29FE1968ADD}|Poo Taller - Tareas\\Poo Taller - Tareas.vcxproj|C:\\Users\\OctoPC\\Documents\\Ilann Emilio Maya Campos___GitHub\\POO Taller\\POO Taller - Tareas\\Poo Taller - Tareas\\Poo Taller - Tareas\\Poo Taller - Tareas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18E5DEE-B456-448D-A4B6-F29FE1968ADD}|Poo Taller - Tareas\\Poo Taller - Tareas.vcxproj|solutionrelative:Poo Taller - Tareas\\Poo Taller - Tareas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Poo Taller - Tareas.cpp",
+              "DocumentMoniker": "C:\\Users\\OctoPC\\Documents\\Ilann Emilio Maya Campos___GitHub\\POO Taller\\POO Taller - Tareas\\Poo Taller - Tareas\\Poo Taller - Tareas\\Poo Taller - Tareas.cpp",
+              "RelativeDocumentMoniker": "Poo Taller - Tareas\\Poo Taller - Tareas.cpp",
+              "ToolTip": "C:\\Users\\OctoPC\\Documents\\Ilann Emilio Maya Campos___GitHub\\POO Taller\\POO Taller - Tareas\\Poo Taller - Tareas\\Poo Taller - Tareas\\Poo Taller - Tareas.cpp",
+              "RelativeToolTip": "Poo Taller - Tareas\\Poo Taller - Tareas.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T20:18:26.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
